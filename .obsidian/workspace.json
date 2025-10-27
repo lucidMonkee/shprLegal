@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6d08670fe4e4a998",
+        "id": "bc8d0cce4290b370",
         "type": "tabs",
         "children": [
           {
-            "id": "8767bae229ee875a",
+            "id": "5757679c3f484690",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -195,8 +195,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "b2fa6b7c7db17161",
+  "active": "5757679c3f484690",
   "lastOpenFiles": [
-    "test new file commit to shprLegal from obsidian.md"
+    "test new file commit to shprLegal from obsidian.md",
+    "README.md"
   ]
 }
