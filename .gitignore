@@ -23,5 +23,9 @@ config.ini
 # Ignore OS specific files
 .DS_Store
 Thumbs.db
+
+# Ignore Obsidian specific files
 .obsidian/
 .smart-env/
+*.md~
+*.log
