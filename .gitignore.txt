@@ -23,5 +23,5 @@ config.ini
 # Ignore OS specific files
 .DS_Store
 Thumbs.db
-.obsidian
-.smart-env
+.obsidian/
+.smart-env/
